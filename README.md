@@ -4,5 +4,4 @@ Se utiliza el algoritmo RANSAC implementado por sklearn para detectar la linea m
 
 --------------------------------------------------------------------------------------------------
 This exercise starts from a link of a landscape picture, to detect its horizon line.
-
 We use the RANSAC algorithm implemented by sklearn to achieve it.
